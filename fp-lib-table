@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name teensy)(type KiCad)(uri ${KIPRJMOD}/teensy.pretty)(options "")(descr ""))
+  (lib (name transformer)(type KiCad)(uri ${KIPRJMOD}/transformer.pretty)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri ${KIPRJMOD}/logo.pretty)(options "")(descr ""))
+)
