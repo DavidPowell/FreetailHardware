@@ -2500,7 +2500,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061afa379)
     (property "Reference" "R12" (id 0) (at 227.33 52.07 90))
-    (property "Value" "470k" (id 1) (at 227.33 54.61 90))
+    (property "Value" "56k" (id 1) (at 227.33 54.61 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 227.33 52.832 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3827,7 +3827,7 @@
       (reference "R11") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-000061afa379"
-      (reference "R12") (unit 1) (value "470k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R12") (unit 1) (value "56k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-000061afc6d3"
       (reference "R13") (unit 1) (value "3k3") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
