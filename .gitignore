@@ -28,3 +28,5 @@ fp-info-cache
 gerber_to_order/
 FreetailHardware-backups/
 FreetailHardware.kicad_prl
+#auto_saved_files#
+gerbers/
